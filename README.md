@@ -1,4 +1,4 @@
-# expense_tracker
+# Expense Tracker Application
 
 # Technologies Used: 
 - Backend: Spring Boot
